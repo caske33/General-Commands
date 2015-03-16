@@ -1,0 +1,17 @@
+name: General Commands
+main: me.caske33.generalCommands.Gc
+version: 1.4
+description: Some general commands for Minecraft.
+commands: 
+ tpc:
+  description: teleports you to the highest block at given coordinates.
+ gm:
+  description: switches gamemode.
+ rfw:
+  description: heals hearts and hunger,sets time, butcher.
+ gg:
+  description: declares the end of a match + says how long the match took. 
+ ci:
+  description: clears your inventory.
+ heal:
+  description: heals and feeds all players.
